@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ZMap.Blazor.WebApp\ZMap.Blazor.WebApp.csproj" />
     <ProjectReference Include="..\ZMap.Database\ZMap.Database.csproj" />
     <ProjectReference Include="..\ZMap.Shared\ZMap.Shared.csproj" />
   </ItemGroup>
